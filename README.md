@@ -1,4 +1,4 @@
-swa_blackjack
-=============
+tl-blackjack-webapp
+===================
 
-sinatra web app blackjack
+blackjack game
